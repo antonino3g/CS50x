@@ -16,5 +16,7 @@ Introduction to the intellectual enterprises of computer science and the art of 
 
 ---
 
-
 Web Site Course Free: https://cs50.harvard.edu/x/2020/
+
+-----
+**by Antonino Praxedes :wave: [Get in touch!](https://www.linkedin.com/in/antoninopraxedes/)**
